@@ -6,7 +6,7 @@
 jQuery
 
 
-## Getting Started
+### Getting Started
 
 Add 'angular-timedropper' to your Angular module:
 
@@ -24,7 +24,7 @@ Reference the directive in your text input field as follows:
 ```
 
 
-## Contact
+### Contact
 
 For more information on jQuery Timedropper please check out http://felicegattuso.com/projects/timedropper/
 
